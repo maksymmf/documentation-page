@@ -61,6 +61,7 @@ main {
 main h2 {
   font-size: 1.2rem;
   font-family: "Times New Roman", Times, serif;
+  margin-bottom: 2px;
 }
 main h2:target {
   animation: target 1.5s;
